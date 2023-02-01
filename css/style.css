@@ -1,0 +1,39 @@
+
+ul {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.heading {
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    /*font-size: 40px;*/
+
+}
+
+.problem {
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    /*font-size: 40px;*/
+}
+
+
+.heroBackground2 {
+    background-image: url(../images/coverphoto-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.headingh2 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 20px;
+}
